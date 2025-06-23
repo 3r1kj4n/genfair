@@ -10,6 +10,5 @@ Fine-tuning experiments with [NLLB-200 distilled 600M](https://huggingface.co/fa
 - The dataset is built on [SweWinoGender 2.0](https://spraakbanken.gu.se/en/resources/swewinogender) and [MT-GenEval](https://github.com/amazon-science/machine-translation-gender-eval)
 
 ## Sources
-Anna Currey, Maria Nadejde, Raghavendra Reddy Pappagari, Mia Mayer, Stanislas Lauly, Xing Niu, Benjamin Hsu, and Georgiana Dinu (2022). MT-GenEval: A counterfactual and contextual dataset for evaluating gender accuracy in machine translation. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 4287–4299, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.\\
-
-Adesam, Yvonne, & Bouma, Gerlof (2023). SweWinogender 2.0 (updated: 2023-03-30). Språkbanken Text. https://doi.org/10.23695/wy9w-mw74 
+- Anna Currey, Maria Nadejde, Raghavendra Reddy Pappagari, Mia Mayer, Stanislas Lauly, Xing Niu, Benjamin Hsu, and Georgiana Dinu (2022). MT-GenEval: A counterfactual and contextual dataset for evaluating gender accuracy in machine translation. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 4287–4299, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
+- Adesam, Yvonne, & Bouma, Gerlof (2023). SweWinogender 2.0 (updated: 2023-03-30). Språkbanken Text. https://doi.org/10.23695/wy9w-mw74 
