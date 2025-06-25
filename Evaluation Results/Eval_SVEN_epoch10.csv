@@ -1,5 +1,4 @@
-EN (golden),EN model translation,correct = 1 / else = 0,Incorrect Coreference Resolution,Incorrect Gender Reference (Non-Coreference) ,"Lack of Genderfairness
-ness",Incorrect Application of Gender-fair Language,Minor Translation Error,Major Translation Error,Gender,Note
+EN (golden),EN model translation,correct = 1 / else = 0,Incorrect Coreference Resolution,Incorrect Gender Reference (Non-Coreference),"Lack of Gender-fairness",Incorrect Application of Gender-fair Language,Minor Translation Error,Major Translation Error,Gender,Note
 The engineer informed the customer that he would need more time to complete the project.,The engineer informed the customer that he would need more time to complete the project.,1,,,,,,,M,
 The engineer informed the customer that they would need more time to complete the project.,The engineer informed the customer that they would need more time to complete the project.,1,,,,,,,X,
 The engineer informed the customer that she would need more time to complete the project.,The engineer informed the customer that she would need more time to complete the project.,1,,,,,,,F,

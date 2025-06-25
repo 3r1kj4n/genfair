@@ -1,5 +1,4 @@
-DE genderfair (golden),DE model translation,correct = 1 / else = 0,Incorrect Coreference Resolution,Incorrect Gender Reference (Non-Coreference) ,"Lack of Genderfairness
-ness",Incorrect Application of Gender-fair Language,Minor Translation Error,Major Translation Error,Gender,Note
+DE genderfair (golden),DE model translation,correct = 1 / else = 0,Incorrect Coreference Resolution,Incorrect Gender Reference (Non-Coreference),"Lack of Gender-fairness",Incorrect Application of Gender-fair Language,Minor Translation Error,Major Translation Error,Gender,Note
 "Der Ingenieur teilte der:dem Kund:in mit, dass er mehr Zeit für die Fertigstellung des Projekts benötigen würde.","Der Ingenieur teilte der:dem Kund:in mit, dass er mehr Zeit benötigen würde, um das Projekt abzuschließen.",1,,,,,,,M,
 "Die:Der Ingenieur:in teilte der:dem Kund:in mit, dass dey mehr Zeit für die Fertigstellung des Projekts benötigen würde.","Die:Der Ingenieur:in teilte der:dem Kund:in mit, dass dey mehr Zeit benötigen würde, um das Projekt abzuschließen.",1,,,,,,,X,
 "Die Ingenieurin teilte der:dem Kund:in mit, dass sie mehr Zeit für die Fertigstellung des Projekts benötigen würde.","Die Ingenieurin teilte der:dem Kund:in mit, dass sie mehr Zeit benötigen würde, um das Projekt abzuschließen.",1,,,,,,,F,
