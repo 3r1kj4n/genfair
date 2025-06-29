@@ -1,6 +1,6 @@
 # Genderfair translation from Swedish to English and Swedish to German
 
-Fine-tuning experiments with [NLLB-200 distilled 600M](https://huggingface.co/facebook/nllb-200-distilled-600M) on gender-fair translation
+Fine-tuning experiments with [NLLB-200-distilled-600M](https://huggingface.co/facebook/nllb-200-distilled-600M) on gender-fair translation
 
 
 ## Dataset
